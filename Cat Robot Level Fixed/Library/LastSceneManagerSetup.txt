@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GithubUnityCatProject.unity
+- path: Assets/catsceneJanuary312019.unity
   isLoaded: 1
   isActive: 1
