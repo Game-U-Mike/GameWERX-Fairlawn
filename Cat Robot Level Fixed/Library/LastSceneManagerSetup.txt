@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Level 1 (all puzzles on standby).unity
+- path: Assets/lowpolyterrian.unity
   isLoaded: 1
   isActive: 1

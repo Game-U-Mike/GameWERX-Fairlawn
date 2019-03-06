@@ -25,13 +25,18 @@ public class movement : MonoBehaviour {
 	public GameObject Wheel1;
 	public GameObject Wheel2;
 	public int wheelSpeed;
+	public float gravityMultiplier;
 	// Use this for initialization
 	void Start () {
 		rb = gameObject.GetComponent<Rigidbody>();
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
+
+
+		Vector3 extraGravityForce = (Physics.gravity * gravityMultiplier) - Physics.gravity;
+		rb.AddForce(extraGravityForce);
 
 		if (grounded == true) {
 			
@@ -69,6 +74,12 @@ public class movement : MonoBehaviour {
 			if (Input.GetKey (KeyCode.W))
 				rb.velocity = new Vector3 (transform.forward.x * speed * airSpeed, rb.velocity.y, transform.forward.z * speed * airSpeed);
 
+			if (Input.GetKeyUp (KeyCode.W))
+				rb.velocity = new Vector3 (0, rb.velocity.y, 0);
+
+			if (Input.GetKeyUp (KeyCode.S))
+				rb.velocity = new Vector3 (0, rb.velocity.y, 0);
+			
 			if (Input.GetKey (KeyCode.S))
 				rb.velocity = new Vector3 (-transform.forward.x * speed * airSpeed, rb.velocity.y, -transform.forward.z * speed * airSpeed);
 
