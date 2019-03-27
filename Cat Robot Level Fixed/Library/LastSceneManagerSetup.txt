@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/lowpolyterrian.unity
+- path: Assets/lightingchanges.unity
   isLoaded: 1
   isActive: 1
