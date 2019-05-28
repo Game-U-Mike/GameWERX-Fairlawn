@@ -206,7 +206,7 @@ namespace UnityStandardAssets.Water
                 return;
             }
 
-            Vector4 waveSpeed = mat.GetVector("WaveSpeed");
+           /* Vector4 waveSpeed = mat.GetVector("WaveSpeed");
             float waveScale = mat.GetFloat("_WaveScale");
             Vector4 waveScale4 = new Vector4(waveScale, waveScale, waveScale * 0.4f, waveScale * 0.45f);
 
@@ -220,7 +220,7 @@ namespace UnityStandardAssets.Water
                 );
 
             mat.SetVector("_WaveOffset", offsetClamped);
-            mat.SetVector("_WaveScale4", waveScale4);
+            mat.SetVector("_WaveScale4", waveScale4);*/
         }
 
         void UpdateCameraModes(Camera src, Camera dest)
