@@ -322,3 +322,5 @@ C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\Temp\bin\
 C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\obj\Debug\Assembly-CSharp.dll
 C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\obj\Debug\Assembly-CSharp.pdb
+C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\info\Documents\GitHub\GameWERX-Fairlawn\Cat Robot Level Fixed\Temp\bin\Debug\UnityEditor.UI.xml

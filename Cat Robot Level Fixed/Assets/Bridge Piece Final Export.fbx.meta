@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 78add1aefe76d5248b9ecd9a01b70ce2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bridgepart:bridgeconnector
+    100004: bridgepart:bridgeconnector 1
+    100006: bridgepart:bridgeconnector1
+    100008: bridgepart:bridgeconnector1 1
+    100010: bridgepart:bridgeconnector2
+    100012: bridgepart:bridgeconnector2 1
+    100014: bridgepart:bridgeconnector3
+    100016: bridgepart:bridgeconnector3 1
+    100018: bridgepart:bridgeconnector4
+    100020: bridgepart:bridgeconnector4 1
+    100022: bridgepart:bridgeconnector5
+    100024: bridgepart:bridgeconnector5 1
+    100026: bridgepart:bridgeside
+    100028: bridgepart:bridgeside 1
+    100030: bridgepart:bridgeside1
+    100032: bridgepart:bridgeside1 1
+    100034: bridgepart:group1
+    100036: bridgepart:group2
+    100038: bridgepart:group3
+    100040: bridgepart:nurbsCube1
+    100042: bridgepart:pCube1
+    100044: bridgepart:pCube14
+    100046: bridgepart:pCube14 1
+    100048: bridgepart:pCube2
+    100050: bridgepart:pCube3
+    100052: bridgepart:pCube4
+    100054: bridgepart:pCube5
+    100056: bridgepart:planarTrimmedSurface1
+    100058: bridgepart:planarTrimmedSurface2
+    100060: bridgepart:planarTrimmedSurface3
+    100062: bridgepart:planarTrimmedSurface4
+    100064: bridgepart:planarTrimmedSurface5
+    100066: bridgepart:transform1
+    100068: bridgepart:transform2
+    100070: bridgepart:transform3
+    100072: bridgepart:transform4
+    100074: bridgepart:transform5
+    100076: bridgepart:transform6
+    100078: bridgepart:transform7
+    100080: bridgepart:transform8
+    100082: group1
+    100084: group2
+    100086: group3
+    100088: pCube1
+    100090: pCube2
+    100092: pCube3
+    100094: pCube3 1
+    100096: stair
+    100098: stair 1
+    100100: transform1
+    100102: transform2
+    400000: //RootNode
+    400002: bridgepart:bridgeconnector
+    400004: bridgepart:bridgeconnector 1
+    400006: bridgepart:bridgeconnector1
+    400008: bridgepart:bridgeconnector1 1
+    400010: bridgepart:bridgeconnector2
+    400012: bridgepart:bridgeconnector2 1
+    400014: bridgepart:bridgeconnector3
+    400016: bridgepart:bridgeconnector3 1
+    400018: bridgepart:bridgeconnector4
+    400020: bridgepart:bridgeconnector4 1
+    400022: bridgepart:bridgeconnector5
+    400024: bridgepart:bridgeconnector5 1
+    400026: bridgepart:bridgeside
+    400028: bridgepart:bridgeside 1
+    400030: bridgepart:bridgeside1
+    400032: bridgepart:bridgeside1 1
+    400034: bridgepart:group1
+    400036: bridgepart:group2
+    400038: bridgepart:group3
+    400040: bridgepart:nurbsCube1
+    400042: bridgepart:pCube1
+    400044: bridgepart:pCube14
+    400046: bridgepart:pCube14 1
+    400048: bridgepart:pCube2
+    400050: bridgepart:pCube3
+    400052: bridgepart:pCube4
+    400054: bridgepart:pCube5
+    400056: bridgepart:planarTrimmedSurface1
+    400058: bridgepart:planarTrimmedSurface2
+    400060: bridgepart:planarTrimmedSurface3
+    400062: bridgepart:planarTrimmedSurface4
+    400064: bridgepart:planarTrimmedSurface5
+    400066: bridgepart:transform1
+    400068: bridgepart:transform2
+    400070: bridgepart:transform3
+    400072: bridgepart:transform4
+    400074: bridgepart:transform5
+    400076: bridgepart:transform6
+    400078: bridgepart:transform7
+    400080: bridgepart:transform8
+    400082: group1
+    400084: group2
+    400086: group3
+    400088: pCube1
+    400090: pCube2
+    400092: pCube3
+    400094: pCube3 1
+    400096: stair
+    400098: stair 1
+    400100: transform1
+    400102: transform2
+    2100000: lambert1
+    2100002: blinn5
+    2100004: blinn3
+    2100006: blinn1
+    2100008: blinn2
+    2100010: blinn4
+    2300000: bridgepart:bridgeconnector
+    2300002: bridgepart:bridgeconnector 1
+    2300004: bridgepart:bridgeconnector1
+    2300006: bridgepart:bridgeconnector1 1
+    2300008: bridgepart:bridgeconnector2
+    2300010: bridgepart:bridgeconnector2 1
+    2300012: bridgepart:bridgeconnector3
+    2300014: bridgepart:bridgeconnector3 1
+    2300016: bridgepart:bridgeconnector4
+    2300018: bridgepart:bridgeconnector4 1
+    2300020: bridgepart:bridgeconnector5
+    2300022: bridgepart:bridgeconnector5 1
+    2300024: bridgepart:bridgeside
+    2300026: bridgepart:bridgeside 1
+    2300028: bridgepart:bridgeside1
+    2300030: bridgepart:bridgeside1 1
+    2300032: bridgepart:pCube1
+    2300034: bridgepart:pCube14
+    2300036: bridgepart:pCube14 1
+    2300038: bridgepart:planarTrimmedSurface2
+    2300040: pCube3
+    2300042: pCube3 1
+    2300044: stair
+    2300046: stair 1
+    3300000: bridgepart:bridgeconnector
+    3300002: bridgepart:bridgeconnector 1
+    3300004: bridgepart:bridgeconnector1
+    3300006: bridgepart:bridgeconnector1 1
+    3300008: bridgepart:bridgeconnector2
+    3300010: bridgepart:bridgeconnector2 1
+    3300012: bridgepart:bridgeconnector3
+    3300014: bridgepart:bridgeconnector3 1
+    3300016: bridgepart:bridgeconnector4
+    3300018: bridgepart:bridgeconnector4 1
+    3300020: bridgepart:bridgeconnector5
+    3300022: bridgepart:bridgeconnector5 1
+    3300024: bridgepart:bridgeside
+    3300026: bridgepart:bridgeside 1
+    3300028: bridgepart:bridgeside1
+    3300030: bridgepart:bridgeside1 1
+    3300032: bridgepart:pCube1
+    3300034: bridgepart:pCube14
+    3300036: bridgepart:pCube14 1
+    3300038: bridgepart:planarTrimmedSurface2
+    3300040: pCube3
+    3300042: pCube3 1
+    3300044: stair
+    3300046: stair 1
+    4300000: bridgepart:pCube1
+    4300002: bridgepart:planarTrimmedSurface2
+    4300004: bridgepart:bridgeside1
+    4300006: bridgepart:pCube14
+    4300008: bridgepart:bridgeconnector5
+    4300010: bridgepart:bridgeconnector4
+    4300012: bridgepart:bridgeconnector3
+    4300014: bridgepart:bridgeconnector2
+    4300016: bridgepart:bridgeconnector
+    4300018: bridgepart:bridgeconnector1
+    4300020: bridgepart:bridgeside
+    4300022: bridgepart:bridgeside1
+    4300024: bridgepart:pCube14
+    4300026: bridgepart:bridgeconnector5
+    4300028: bridgepart:bridgeconnector4
+    4300030: bridgepart:bridgeconnector3
+    4300032: bridgepart:bridgeconnector2
+    4300034: bridgepart:bridgeconnector
+    4300036: bridgepart:bridgeconnector1
+    4300038: bridgepart:bridgeside
+    4300040: pCube3
+    4300042: stair
+    4300044: pCube3
+    4300046: stair
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
