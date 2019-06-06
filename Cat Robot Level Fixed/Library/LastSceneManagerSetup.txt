@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/lightingchanges2.unity
+- path: Assets/Scenes/lightingchanges2.unity
   isLoaded: 1
   isActive: 1
