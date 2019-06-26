@@ -97,28 +97,6 @@ MonoBehaviour:
       m_Bits: 4294967295
     isTagFilteringEnabled: 0
     tagFilter: 
-  - brushObject: {fileID: 1858472350046696, guid: 1ddaf242dd01c744393cf9bd8a9334d1,
-      type: 2}
-    usePrefabs: 1
-    allowIntercollision: 0
-    alignToSurface: 0
-    randomizeXRotation: 0
-    randomizeYRotation: 1
-    randomizeZRotation: 0
-    parentContainer: {fileID: 0}
-    density: 5
-    brushSize: 25
-    minScale: 0.5
-    maxScale: 1.5
-    offsetFromPivot: {x: 0, y: 0, z: 0}
-    rotOffsetFromPivot: {x: 0, y: 0, z: 0}
-    minSlope: 0
-    maxSlope: 360
-    layerFilter:
-      serializedVersion: 2
-      m_Bits: 4294967295
-    isTagFilteringEnabled: 0
-    tagFilter: 
   - brushObject: {fileID: 1806273466138086, guid: 065211b13cf2c0b45a7ad739ba6e8cc2,
       type: 2}
     usePrefabs: 1
@@ -128,8 +106,8 @@ MonoBehaviour:
     randomizeYRotation: 1
     randomizeZRotation: 0
     parentContainer: {fileID: 0}
-    density: 4.75
-    brushSize: 20.85
+    density: 5
+    brushSize: 24.26
     minScale: 0.5
     maxScale: 1.5
     offsetFromPivot: {x: 0, y: 0, z: 0}
@@ -293,8 +271,8 @@ MonoBehaviour:
       m_Bits: 4294967295
     isTagFilteringEnabled: 0
     tagFilter: 
-  primarySelectedBrush:
-    brushObject: {fileID: 100000, guid: d48372f6c9329f74a8caacd31b59bbff, type: 3}
+  - brushObject: {fileID: 1561004357610274, guid: 3c6a445354a85c241a4cec224843113d,
+      type: 2}
     usePrefabs: 1
     allowIntercollision: 0
     alignToSurface: 0
@@ -305,7 +283,52 @@ MonoBehaviour:
     density: 1
     brushSize: 5
     minScale: 0.5
-    maxScale: 50
+    maxScale: 1.5
+    offsetFromPivot: {x: 0, y: 0, z: 0}
+    rotOffsetFromPivot: {x: 0, y: 0, z: 0}
+    minSlope: 0
+    maxSlope: 360
+    layerFilter:
+      serializedVersion: 2
+      m_Bits: 4294967295
+    isTagFilteringEnabled: 0
+    tagFilter: 
+  - brushObject: {fileID: 1095773145228200, guid: fac5acd5ad489214781636c608a0c628,
+      type: 2}
+    usePrefabs: 1
+    allowIntercollision: 0
+    alignToSurface: 0
+    randomizeXRotation: 0
+    randomizeYRotation: 1
+    randomizeZRotation: 0
+    parentContainer: {fileID: 0}
+    density: 1
+    brushSize: 5
+    minScale: 0.5
+    maxScale: 1.5
+    offsetFromPivot: {x: 0, y: 0, z: 0}
+    rotOffsetFromPivot: {x: 0, y: 0, z: 0}
+    minSlope: 0
+    maxSlope: 360
+    layerFilter:
+      serializedVersion: 2
+      m_Bits: 4294967295
+    isTagFilteringEnabled: 0
+    tagFilter: 
+  primarySelectedBrush:
+    brushObject: {fileID: 1095773145228200, guid: fac5acd5ad489214781636c608a0c628,
+      type: 2}
+    usePrefabs: 1
+    allowIntercollision: 0
+    alignToSurface: 0
+    randomizeXRotation: 0
+    randomizeYRotation: 1
+    randomizeZRotation: 0
+    parentContainer: {fileID: 0}
+    density: 1
+    brushSize: 5
+    minScale: 0.5
+    maxScale: 1.5
     offsetFromPivot: {x: 0, y: 0, z: 0}
     rotOffsetFromPivot: {x: 0, y: 0, z: 0}
     minSlope: 0
@@ -316,7 +339,8 @@ MonoBehaviour:
     isTagFilteringEnabled: 0
     tagFilter: 
   selectedBrushes:
-  - brushObject: {fileID: 100000, guid: d48372f6c9329f74a8caacd31b59bbff, type: 3}
+  - brushObject: {fileID: 1095773145228200, guid: fac5acd5ad489214781636c608a0c628,
+      type: 2}
     usePrefabs: 1
     allowIntercollision: 0
     alignToSurface: 0
@@ -327,7 +351,7 @@ MonoBehaviour:
     density: 1
     brushSize: 5
     minScale: 0.5
-    maxScale: 50
+    maxScale: 1.5
     offsetFromPivot: {x: 0, y: 0, z: 0}
     rotOffsetFromPivot: {x: 0, y: 0, z: 0}
     minSlope: 0
