@@ -7,8 +7,10 @@ public class GameManager : MonoBehaviour {
 	bool Paused=false;
 	// Use this for initialization
 	void Start () {
-		if (Cursor.lockState != CursorLockMode.Locked)
+		if (Cursor.lockState != CursorLockMode.Locked) {
 			Cursor.lockState = CursorLockMode.Locked;
+			Cursor.visible = false;
+		}
 	}
 	
 	// Update is called once per frame
@@ -16,6 +18,7 @@ public class GameManager : MonoBehaviour {
 		if (Input.GetButtonDown ("Pause")) {
 			if (Paused) {
 				Cursor.lockState = CursorLockMode.Locked;
+				Cursor.visible = false;
 				Time.timeScale = 1;
 				Paused = false;
 				Pause.SetActive (false);
@@ -24,6 +27,7 @@ public class GameManager : MonoBehaviour {
 				Paused = true;
 				Pause.SetActive (true);
 				Cursor.lockState = CursorLockMode.None;
+				Cursor.visible = true;
 			}
 		}
 	}
