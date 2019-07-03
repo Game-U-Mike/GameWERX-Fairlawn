@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Moving_platform.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
     <Files>
       <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" Line="1" Column="1" />
@@ -8,7 +8,8 @@
       <File FileName="Assets\Editor\ExportTerrain.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" Line="1" Column="1" />
       <File FileName="Assets\HolyShift\Scripts\CheckForStandardAssets.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Moving_platform.cs" Line="5" Column="47" />
+      <File FileName="Assets\Scripts\Moving_platform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="18" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
